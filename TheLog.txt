@@ -1,0 +1,666 @@
+﻿2015-12-16 15:47:03.6835|INFO|thread:30|BlobCacheUtils|Shutting down cache 'C:\Users\Amy Truong\AppData\Roaming\GitHub\api.github.com.cache.db'
+2015-12-16 15:41:57.3073|INFO|thread: 1|GitHubEnvironment|ACTIVATION DATA RAW
+2015-12-16 15:41:57.3073|INFO|thread: 1|GitHubEnvironment|[base64:LS1qdXN0ZGllZA==,L3Jlc3RhcnRlZA==,LS1jZD1DOlxVc2Vyc1xBbXkgVHJ1b25nXEFwcERhdGFcTG9jYWxcQXBwc1wyLjBcNEpHQks4RUQuVFQxXFBPSkFLMjBDLlIzNFxnaXRoLi50aW9uXzMxNzQ0NDI3M2E5M2FjMjlfMDAwMy4wMDAwXzQ0NjA0ZDAyNmEyM2IxMTQ=]: '0'
+2015-12-16 15:41:57.3073|INFO|thread: 1|GitHubEnvironment|ACTIVATION DATA UNENCODED
+2015-12-16 15:41:57.3073|INFO|thread: 1|GitHubEnvironment|[--justdied]: '0'
+[/restarted]: '1'
+[--cd=C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114]: '2'
+2015-12-16 15:41:57.3073|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:--justdied
+/restarted
+--cd=C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114
+2015-12-16 15:41:57.3230|INFO|thread: 1|CommandHandler|Request to set CurrentDirectory to 'C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114'
+2015-12-16 15:41:57.3230|INFO|thread: 1|CommandHandler|Path exists. Setting CurrentDirectory to 'C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114'
+2015-12-16 15:41:57.3230|INFO|thread: 1|CommandLineHandler|Unprocessed args: --justdied
+2015-12-16 15:41:57.3230|INFO|thread: 1|CommandHandler|Repository Path to open: 'C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114\--justdied', Is Repository: False
+2015-12-16 15:41:57.3386|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| #########################################
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| GitHub Desktop started. VERSION: 3.0.10.0
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| Build version: 4fff3f11ca19bdc6bcab4d267989022c2f87d342
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| ***************************************
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| ***        Have a problem?          ***
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| ***    Email support@github.com     ***
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| ***      and include this file      ***
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| ***************************************
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| OS Version: Windows NT 6.3.9600.0 amd64
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| CLR Version: 4.0.30319.42000
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| Current culture: en-US
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| Environment.CurrentDirectory: C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| Terminal Services session: no
+2015-12-16 15:41:57.3386|INFO|thread: 5|StartupLogging| Location: C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114\GitHub.exe
+2015-12-16 15:41:57.3542|INFO|thread: 5|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2015-12-16 15:41:57.3542|INFO|thread: 5|StartupLogging| System.Environment.CommandLine: C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114\GitHub.exe
+2015-12-16 15:41:57.3699|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:41:57.3699|INFO|thread: 5|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;%USERPROFILE%\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Users\Amy Truong\.dnx\bin;C:\Users\Amy Truong\AppData\Local\atom\bin
+2015-12-16 15:41:57.3699|INFO|thread: 5|StartupLogging| =====================================================
+2015-12-16 15:41:57.3699|INFO|thread: 5|StartupLogging|  DIAGNOSTICS                                        |
+2015-12-16 15:41:57.3699|INFO|thread: 5|StartupLogging| =====================================================
+2015-12-16 15:41:57.3855|INFO|thread: 5|StartupLogging| Git Extracted: 'True:
+2015-12-16 15:41:57.3855|INFO|thread: 5|StartupLogging| PortableGit Dir Exists: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c'
+2015-12-16 15:41:57.3855|INFO|thread: 5|StartupLogging| Git Executable Exists: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe'
+2015-12-16 15:41:57.3855|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2015-12-16 15:41:57.3855|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2015-12-16 15:41:57.3855|ERROR|thread: 5|StartupLogging| MISSING PATH!!: '%USERPROFILE%\.dnx\bin'
+2015-12-16 15:41:57.3855|INFO|thread: 5|StartupLogging| ----------------------------------------------------
+2015-12-16 15:41:57.3855|INFO|thread: 5|StartupLogging| PATH: C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;%USERPROFILE%\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Users\Amy Truong\.dnx\bin;C:\Users\Amy Truong\AppData\Local\atom\bin
+2015-12-16 15:41:57.3855|INFO|thread: 1|GitHubEnvironment|ACTIVATION DATA RAW
+2015-12-16 15:41:57.3855|INFO|thread: 1|GitHubEnvironment|[base64:LS1qdXN0ZGllZA==,L3Jlc3RhcnRlZA==,LS1jZD1DOlxVc2Vyc1xBbXkgVHJ1b25nXEFwcERhdGFcTG9jYWxcQXBwc1wyLjBcNEpHQks4RUQuVFQxXFBPSkFLMjBDLlIzNFxnaXRoLi50aW9uXzMxNzQ0NDI3M2E5M2FjMjlfMDAwMy4wMDAwXzQ0NjA0ZDAyNmEyM2IxMTQ=]: '0'
+2015-12-16 15:41:57.3855|INFO|thread: 1|GitHubEnvironment|ACTIVATION DATA UNENCODED
+2015-12-16 15:41:57.3855|INFO|thread: 1|GitHubEnvironment|[--justdied]: '0'
+[/restarted]: '1'
+[--cd=C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114]: '2'
+2015-12-16 15:41:57.3855|INFO|thread: 1|App|Application was previously re-started.
+2015-12-16 15:41:57.4011|INFO|thread: 5|StartupLogger|Proxy information: (None)
+2015-12-16 15:41:57.4011|INFO|thread: 5|StartupLogger|Couldn't fetch creds for proxy
+2015-12-16 15:41:57.4324|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114\Images\App.ico'
+2015-12-16 15:41:58.0418|INFO|thread: 5|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2015-12-16 15:41:58.0888|INFO|thread: 5|MsysGitCertificateInstaller|Found certificate cache, loaded 156 certificates
+2015-12-16 15:41:58.1043|INFO|thread: 5|MsysGitCertificateInstaller|Created certificate bundle with 167 entries
+2015-12-16 15:41:58.1668|INFO|thread: 5|StartupSequence|Took 138ms to Update certificate bundle from system store
+2015-12-16 15:41:58.8231|INFO|thread: 8|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 1 at RepositoryModel.cs:1489
+2015-12-16 15:41:58.8231|INFO|thread: 4|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 1 at RepositoryModel.cs:1489 after waiting 0.0097211s
+2015-12-16 15:41:58.8867|INFO|thread: 5|AsyncReaderWriterLock|Released exclusive scheduler for operation: 1 at RepositoryModel.cs:1489 after blocking 0.0625124s
+2015-12-16 15:41:58.9638|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2015-12-16 15:41:58.9794|INFO|thread: 1|GitClient|Installing git lfs filters
+2015-12-16 15:41:58.9794|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:41:58.9794|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:41:58.9950|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'lfs install --force ', Working Directory: C:\Users\Amy Truong\AppData\Local\Temp\
+2015-12-16 15:41:58.9950|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2015-12-16 15:41:58.9950|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2015-12-16 15:41:59.8406|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2015-12-16 15:42:01.5368|INFO|thread: 1|RepositoryHost|Log in from cache for login 'amytruong' to host 'https://ghe.io/api/v3/' SUCCEEDED
+2015-12-16 15:42:01.5525|INFO|thread: 1|RepositoryHost|Log in from cache for login 'evilamyt' to host 'https://api.github.com/' SUCCEEDED
+2015-12-16 15:42:01.5837|INFO|thread:27|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Amy Truong' and user.email = 'amytruong+evilamyt@github.com'
+2015-12-16 15:42:01.5837|INFO|thread:28|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Amy Truong' and user.email = 'amytruong+evilamyt@github.com'
+2015-12-16 15:42:01.6150|INFO|thread:27|SSHKeyHelper|ssh-agent already running
+2015-12-16 15:42:01.6150|INFO|thread:27|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2015-12-16 15:42:01.6306|INFO|thread:28|SSHKeyHelper|ssh-agent already running
+2015-12-16 15:42:01.6306|INFO|thread:27|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:01.6306|INFO|thread:27|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:01.6306|INFO|thread:28|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:01.6306|INFO|thread:28|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:01.6306|INFO|thread:28|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin\ssh-add.exe', Args: '"C:\Users\Amy Truong\.ssh\github_rsa"', Working Directory: C:\Users\Amy Truong\AppData\Local\Temp\
+2015-12-16 15:42:01.6306|INFO|thread:27|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin\ssh-add.exe', Args: '"C:\Users\Amy Truong\.ssh\github_rsa"', Working Directory: C:\Users\Amy Truong\AppData\Local\Temp\
+2015-12-16 15:42:01.6775|INFO|thread:17|SSHKeyHelper|Found existing SSH key pair
+2015-12-16 15:42:01.6933|INFO|thread: 4|SSHKeyHelper|Found existing SSH key pair
+2015-12-16 15:42:02.1021|INFO|thread:17|SSHKeyHelper|ssh-agent already running
+2015-12-16 15:42:02.1021|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:02.1021|INFO|thread:17|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:02.1021|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin\ssh-add.exe', Args: '"C:\Users\Amy Truong\.ssh\github_rsa"', Working Directory: C:\Users\Amy Truong\AppData\Local\Temp\
+2015-12-16 15:42:02.1461|INFO|thread: 4|SSHKeyHelper|Found existing SSH key pair
+2015-12-16 15:42:02.2698|INFO|thread:16|DashboardViewModel|Selected repository 'evilamyt/green-good'
+2015-12-16 15:42:02.3012|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 2 at GitClient.cs:628
+2015-12-16 15:42:02.3012|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 2 at GitClient.cs:628 after waiting 0.0021831s
+2015-12-16 15:42:02.3012|INFO|thread:16|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 3 at GitClient.cs:606
+2015-12-16 15:42:02.3012|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 2 at GitClient.cs:628 after blocking 0.0125297s
+2015-12-16 15:42:02.3012|INFO|thread: 5|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 3 at GitClient.cs:606 after waiting 0.0099938s
+2015-12-16 15:42:02.4572|INFO|thread: 4|SSHKeyHelper|ssh-agent already running
+2015-12-16 15:42:02.4572|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:02.4572|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:02.4572|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin\ssh-add.exe', Args: '"C:\Users\Amy Truong\.ssh\github_rsa"', Working Directory: C:\Users\Amy Truong\AppData\Local\Temp\
+2015-12-16 15:42:02.5041|INFO|thread: 8|SSHKeyHelper|Found existing SSH key pair
+2015-12-16 15:42:02.7546|WARN|thread:15|RemoteSSHKeyChain|Failed to add ssh keys to github account
+Octokit.NotFoundException: Not Found
+   at Octokit.Connection.HandleErrors(IResponse response)
+   at Octokit.Connection.<RunRequest>d__27.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Octokit.Connection.<Run>d__23`1.MoveNext()
+2015-12-16 15:42:02.9426|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 4 at GitClient.cs:623
+2015-12-16 15:42:03.0354|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at GitClient.cs:224
+2015-12-16 15:42:03.0354|INFO|thread: 5|DashboardViewModel|Took 742ms to Create RepositoryViewModel for location C:\GitHub Stuff\green-good
+2015-12-16 15:42:03.0354|INFO|thread: 5|AsyncReaderWriterLock|Released exclusive scheduler for operation: 3 at GitClient.cs:606 after blocking 0.7240384s
+2015-12-16 15:42:03.0354|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4 at GitClient.cs:623 after waiting 0.0977171s
+2015-12-16 15:42:03.0354|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at GitClient.cs:224 after waiting 0.0020705s
+2015-12-16 15:42:03.0354|INFO|thread: 4|GitClient|Loading commits for repo: C:\GitHub Stuff\green-good
+2015-12-16 15:42:03.0666|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at RepositoryViewModel.cs:336
+2015-12-16 15:42:03.0979|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4 at GitClient.cs:623 after blocking 0.0628936s
+2015-12-16 15:42:03.0979|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at RepositoryViewModel.cs:336 after waiting 0.0035467s
+2015-12-16 15:42:03.1294|INFO|thread: 4|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\GitHub Stuff\green-good\.
+2015-12-16 15:42:03.1448|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at GitClient.cs:224 after blocking 0.110614s
+2015-12-16 15:42:03.1604|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at RepositoryViewModel.cs:336 after blocking 0.064044s
+2015-12-16 15:42:03.2698|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at GitClient.cs:201
+2015-12-16 15:42:03.2698|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at GitClient.cs:201 after waiting 0.0002033s
+2015-12-16 15:42:03.2698|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at RepositoryModel.cs:596
+2015-12-16 15:42:03.2854|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at RepositoryModel.cs:596
+2015-12-16 15:42:03.2854|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after waiting 0.0222727s
+2015-12-16 15:42:03.3010|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at GitClient.cs:201 after blocking 0.039375s
+2015-12-16 15:42:03.3010|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at RepositoryModel.cs:596 after waiting 0.0182545s
+2015-12-16 15:42:03.3323|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at GitClient.cs:290
+2015-12-16 15:42:03.3479|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at RepositoryModel.cs:596 after blocking 0.0345056s
+2015-12-16 15:42:03.3479|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after blocking 0.0510614s
+2015-12-16 15:42:03.3479|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at GitClient.cs:290 after waiting 0.0100762s
+2015-12-16 15:42:03.3479|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:03.3479|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:03.3479|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:03.4260|INFO|thread: 4|ConcurrentRepositoryConnection|Took 65ms to git status
+2015-12-16 15:42:03.4260|INFO|thread: 4|ConcurrentRepositoryConnection|Took 66ms to git status and parse output
+2015-12-16 15:42:03.4733|INFO|thread: 4|NewCommitViewModel|Took 146ms to load files for C:\GitHub Stuff\green-good
+2015-12-16 15:42:03.4733|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at GitClient.cs:290 after blocking 0.1361604s
+2015-12-16 15:42:03.6761|INFO|thread: 5|BackgroundFetcher|Got a refresh period for C:\GitHub Stuff\green-good\.git of 300 seconds
+2015-12-16 15:42:03.6761|INFO|thread: 5|BackgroundFetcher|Added a delay for C:\GitHub Stuff\green-good\.git of 17438 milliseconds
+2015-12-16 15:42:03.7542|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at GitClient.cs:611
+2015-12-16 15:42:03.7542|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at GitClient.cs:611 after waiting 0.0001284s
+2015-12-16 15:42:03.7542|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at GitClient.cs:611 after blocking 0.0024116s
+2015-12-16 15:42:04.4418|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at BranchesViewModel.cs:535
+2015-12-16 15:42:04.4418|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at BranchesViewModel.cs:535 after waiting 0.0011765s
+2015-12-16 15:42:04.4418|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at RepositoryViewModel.cs:336
+2015-12-16 15:42:04.4418|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at RepositoryViewModel.cs:336 after waiting 0.0001177s
+2015-12-16 15:42:04.4897|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 14 at BranchSynchronizer.cs:126
+2015-12-16 15:42:04.4897|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at BranchesViewModel.cs:535 after blocking 0.0479312s
+2015-12-16 15:42:04.4897|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14 at BranchSynchronizer.cs:126 after waiting 0.0077753s
+2015-12-16 15:42:04.5043|INFO|thread:15|ConcurrentRepositoryConnection|branch stats: ahead 0, behind 0 on test
+2015-12-16 15:42:04.5199|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14 at BranchSynchronizer.cs:126 after blocking 0.0216109s
+2015-12-16 15:42:04.5199|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 15 at GitClient.cs:623
+2015-12-16 15:42:04.5199|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 15 at GitClient.cs:623 after waiting 9.91E-05s
+2015-12-16 15:42:04.5199|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at RepositoryViewModel.cs:336 after blocking 0.0764007s
+2015-12-16 15:42:04.5355|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 15 at GitClient.cs:623 after blocking 0.0048763s
+2015-12-16 15:42:04.5355|INFO|thread: 1|NewCommitViewModel|Took 1056ms to render file list for C:\GitHub Stuff\green-good
+2015-12-16 15:42:04.5355|INFO|thread: 1|NewPullRequestViewModel|No matching pull request found, clearing selection...
+2015-12-16 15:42:04.5355|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 16 at RepositoryViewModel.cs:336
+2015-12-16 15:42:04.5355|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 16 at RepositoryViewModel.cs:336 after waiting 0.0001559s
+2015-12-16 15:42:04.5355|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 16 at RepositoryViewModel.cs:336 after blocking 5.5E-06s
+2015-12-16 15:42:04.5355|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 17 at RepositoryViewModel.cs:336
+2015-12-16 15:42:04.5355|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 17 at RepositoryViewModel.cs:336 after waiting 8.47E-05s
+2015-12-16 15:42:04.5512|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 17 at RepositoryViewModel.cs:336 after blocking 0.0124799s
+2015-12-16 15:42:04.6137|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 18 at GitClient.cs:497
+2015-12-16 15:42:04.6137|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 18 at GitClient.cs:497 after waiting 0.0004458s
+2015-12-16 15:42:04.7188|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 18 at GitClient.cs:497 after blocking 0.1116709s
+2015-12-16 15:42:07.4955|INFO|thread: 8|SoftwareUpdateViewModel|Checking for new version
+2015-12-16 15:42:09.6253|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 19 at GitClient.cs:201
+2015-12-16 15:42:09.6253|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 19 at GitClient.cs:201 after waiting 9.26E-05s
+2015-12-16 15:42:09.6253|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 20 at RepositoryModel.cs:596
+2015-12-16 15:42:09.6253|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 20 at RepositoryModel.cs:596 after waiting 3.53E-05s
+2015-12-16 15:42:09.6409|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 21 at BranchesViewModel.cs:535
+2015-12-16 15:42:09.6409|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 22 at RepositoryViewModel.cs:336
+2015-12-16 15:42:09.6409|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 23 at GitClient.cs:290
+2015-12-16 15:42:09.6409|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 24 at BranchSynchronizer.cs:126
+2015-12-16 15:42:09.6409|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 20 at RepositoryModel.cs:596 after blocking 0.0129849s
+2015-12-16 15:42:09.6409|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 21 at BranchesViewModel.cs:535 after waiting 0.0007325s
+2015-12-16 15:42:09.6409|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 22 at RepositoryViewModel.cs:336 after waiting 0.0005068s
+2015-12-16 15:42:09.6409|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 23 at GitClient.cs:290 after waiting 0.0003979s
+2015-12-16 15:42:09.6409|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 25 at BranchSynchronizer.cs:126
+2015-12-16 15:42:09.6585|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:09.6585|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:09.6585|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:09.6585|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 21 at BranchesViewModel.cs:535 after blocking 0.0184351s
+2015-12-16 15:42:09.6585|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 24 at BranchSynchronizer.cs:126 after waiting 0.0187716s
+2015-12-16 15:42:09.6585|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 19 at GitClient.cs:201 after blocking 0.0388709s
+2015-12-16 15:42:09.6585|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 25 at BranchSynchronizer.cs:126 after waiting 0.0250371s
+2015-12-16 15:42:09.6585|INFO|thread: 5|ConcurrentRepositoryConnection|branch stats: ahead 0, behind 0 on test
+2015-12-16 15:42:09.6585|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 24 at BranchSynchronizer.cs:126 after blocking 0.0114877s
+2015-12-16 15:42:09.6585|INFO|thread:15|ConcurrentRepositoryConnection|branch stats: ahead 0, behind 0 on test
+2015-12-16 15:42:09.6585|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 25 at BranchSynchronizer.cs:126 after blocking 0.0064982s
+2015-12-16 15:42:09.6879|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 22 at RepositoryViewModel.cs:336 after blocking 0.0422013s
+2015-12-16 15:42:09.7475|INFO|thread: 5|ConcurrentRepositoryConnection|Took 73ms to git status
+2015-12-16 15:42:09.7475|INFO|thread: 5|ConcurrentRepositoryConnection|Took 74ms to git status and parse output
+2015-12-16 15:42:09.7531|INFO|thread: 5|NewCommitViewModel|Took 101ms to load files for C:\GitHub Stuff\green-good
+2015-12-16 15:42:09.7531|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 23 at GitClient.cs:290 after blocking 0.1012829s
+2015-12-16 15:42:09.8139|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 26 at GitClient.cs:497
+2015-12-16 15:42:09.8139|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 26 at GitClient.cs:497 after waiting 5.58E-05s
+2015-12-16 15:42:09.8619|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:09.8619|INFO|thread:17|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:09.8619|INFO|thread: 1|NewCommitViewModel|Took 109ms to render file list for C:\GitHub Stuff\green-good
+2015-12-16 15:42:09.8619|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'lfs clean ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:09.8619|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 27 at RepositoryViewModel.cs:336
+2015-12-16 15:42:09.8619|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 27 at RepositoryViewModel.cs:336 after waiting 0.0001028s
+2015-12-16 15:42:09.8808|INFO|thread:15|AsyncReaderWriterLock|Released concurrent scheduler for operation: 27 at RepositoryViewModel.cs:336 after blocking 0.017898s
+2015-12-16 15:42:09.9888|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 26 at GitClient.cs:497 after blocking 0.1742821s
+2015-12-16 15:42:09.9888|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 28 at GitClient.cs:241
+2015-12-16 15:42:09.9888|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 28 at GitClient.cs:241 after waiting 0.0001624s
+2015-12-16 15:42:10.1180|INFO|thread:32|AsyncReaderWriterLock|Released concurrent scheduler for operation: 28 at GitClient.cs:241 after blocking 0.1206009s
+2015-12-16 15:42:15.0411|INFO|thread: 1|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 29 at ICommitCreator.cs:89
+2015-12-16 15:42:15.0411|INFO|thread: 8|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 29 at ICommitCreator.cs:89 after waiting 0.000154s
+2015-12-16 15:42:15.0411|INFO|thread:31|ExclusiveRepositoryConnection|Creating Commit
+2015-12-16 15:42:15.0651|INFO|thread:31|ExclusiveRepositoryConnection|Creating new commit with 2 file(s). test
+
+test
+
+2015-12-16 15:42:15.0651|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:15.0651|INFO|thread:31|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:15.0651|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'add --all ".gitattributes" ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:15.1281|INFO|thread:27|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:15.1281|INFO|thread:27|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:15.1281|INFO|thread:27|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'add --all "file folder.png" ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:15.3002|INFO|thread:33|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:15.3002|INFO|thread:33|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:15.3002|INFO|thread:33|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'commit -F "C:\Users\Amy Truong\AppData\Local\Temp\3ec081d6-b483-474a-ba9a-8daccf8a2268" ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:15.4585|INFO|thread:35|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 30 at RepositoryModel.cs:596
+2015-12-16 15:42:15.4585|INFO|thread: 1|AsyncReaderWriterLock|Released exclusive scheduler for operation: 29 at ICommitCreator.cs:89 after blocking 0.4173948s
+2015-12-16 15:42:15.4585|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 30 at RepositoryModel.cs:596 after waiting 0.0006501s
+2015-12-16 15:42:15.4585|INFO|thread:36|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 31 at GitClient.cs:290
+2015-12-16 15:42:15.4585|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 31 at GitClient.cs:290 after waiting 0.0001363s
+2015-12-16 15:42:15.4585|INFO|thread:33|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:15.4585|INFO|thread:33|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:15.4585|INFO|thread:33|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:15.4585|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 30 at RepositoryModel.cs:596 after blocking 0.0086837s
+2015-12-16 15:42:15.4922|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 32 at GitClient.cs:404
+2015-12-16 15:42:15.4922|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 32 at GitClient.cs:404 after waiting 0.0003141s
+2015-12-16 15:42:15.4922|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 33 at GitClient.cs:201
+2015-12-16 15:42:15.4922|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 33 at GitClient.cs:201 after waiting 4.32E-05s
+2015-12-16 15:42:15.4922|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 34 at BranchesViewModel.cs:535
+2015-12-16 15:42:15.4922|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 35 at RepositoryViewModel.cs:336
+2015-12-16 15:42:15.4922|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 36 at BranchSynchronizer.cs:126
+2015-12-16 15:42:15.5112|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 34 at BranchesViewModel.cs:535 after waiting 0.0113392s
+2015-12-16 15:42:15.5112|INFO|thread:32|ConcurrentRepositoryConnection|Took 43ms to git status
+2015-12-16 15:42:15.5112|INFO|thread:32|ConcurrentRepositoryConnection|Took 43ms to git status and parse output
+2015-12-16 15:42:15.5112|INFO|thread: 8|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:15.5112|INFO|thread: 8|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:15.5112|INFO|thread: 8|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --name-status f253857c7a3593d744ca843d052857b5d3bbbbaf ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:15.5112|INFO|thread: 8|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:15.5112|INFO|thread: 8|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:15.5112|INFO|thread: 8|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --numstat f253857c7a3593d744ca843d052857b5d3bbbbaf ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:15.5262|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 35 at RepositoryViewModel.cs:336 after waiting 0.0264277s
+2015-12-16 15:42:15.5262|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 34 at BranchesViewModel.cs:535 after blocking 0.0155068s
+2015-12-16 15:42:15.5262|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 33 at GitClient.cs:201 after blocking 0.0317798s
+2015-12-16 15:42:15.5262|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 36 at BranchSynchronizer.cs:126 after waiting 0.0290214s
+2015-12-16 15:42:15.5352|INFO|thread: 4|ConcurrentRepositoryConnection|branch stats: ahead 1, behind 0 on test
+2015-12-16 15:42:15.5352|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 36 at BranchSynchronizer.cs:126 after blocking 0.0053417s
+2015-12-16 15:42:15.5352|INFO|thread:32|NewCommitViewModel|Took 79ms to load files for C:\GitHub Stuff\green-good
+2015-12-16 15:42:15.5352|INFO|thread:32|AsyncReaderWriterLock|Released concurrent scheduler for operation: 31 at GitClient.cs:290 after blocking 0.0786299s
+2015-12-16 15:42:15.5702|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 35 at RepositoryViewModel.cs:336 after blocking 0.0436198s
+2015-12-16 15:42:15.6052|INFO|thread: 1|NewCommitViewModel|Took 66ms to render file list for C:\GitHub Stuff\green-good
+2015-12-16 15:42:15.7942|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 32 at GitClient.cs:404 after blocking 0.3013301s
+2015-12-16 15:42:15.7942|INFO|thread: 1|SelectedCommitViewModel|Took 312ms to load files for commit f253857 in repo C:\GitHub Stuff\green-good
+2015-12-16 15:42:15.8445|WARN|thread: 1|StandardUserErrors|Showing user error An error occurred while trying to load the files for this commit. Try selecting another commit and then select this commit. If that does not work, contact support@github.com.
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at GitHub.ConcurrentRepositoryConnection.<>c__DisplayClass6.<>c__DisplayClassa.<GetCommittedFiles>b__5(String[] diff, IList`1 name)
+   at System.Reactive.Linq.ObservableImpl.Zip`3._.S.OnNext(TSecond value)
+2015-12-16 15:42:44.7341|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 37 at GitClient.cs:201
+2015-12-16 15:42:44.7341|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 37 at GitClient.cs:201 after waiting 8.33E-05s
+2015-12-16 15:42:44.7341|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 38 at RepositoryModel.cs:596
+2015-12-16 15:42:44.7341|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 38 at RepositoryModel.cs:596 after waiting 0.0001168s
+2015-12-16 15:42:44.7571|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 39 at GitClient.cs:290
+2015-12-16 15:42:44.7571|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 39 at GitClient.cs:290 after waiting 5.07E-05s
+2015-12-16 15:42:44.7571|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 40 at BranchSynchronizer.cs:126
+2015-12-16 15:42:44.7571|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 38 at RepositoryModel.cs:596 after blocking 0.0226492s
+2015-12-16 15:42:44.7571|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 40 at BranchSynchronizer.cs:126 after waiting 0.0001563s
+2015-12-16 15:42:44.7571|INFO|thread:17|ConcurrentRepositoryConnection|branch stats: ahead 1, behind 0 on test
+2015-12-16 15:42:44.7571|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 40 at BranchSynchronizer.cs:126 after blocking 0.005997s
+2015-12-16 15:42:44.7571|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:44.7571|INFO|thread:17|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:44.7571|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:44.7731|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 37 at GitClient.cs:201 after blocking 0.0389538s
+2015-12-16 15:42:44.8061|INFO|thread:17|ConcurrentRepositoryConnection|Took 36ms to git status
+2015-12-16 15:42:44.8061|INFO|thread:17|ConcurrentRepositoryConnection|Took 36ms to git status and parse output
+2015-12-16 15:42:44.8061|INFO|thread:17|NewCommitViewModel|Took 49ms to load files for C:\GitHub Stuff\green-good
+2015-12-16 15:42:44.8061|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 39 at GitClient.cs:290 after blocking 0.0497374s
+2015-12-16 15:42:44.8281|INFO|thread: 1|NewCommitViewModel|Took 21ms to render file list for C:\GitHub Stuff\green-good
+2015-12-16 15:42:44.8281|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 41 at RepositoryViewModel.cs:336
+2015-12-16 15:42:44.8281|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 41 at RepositoryViewModel.cs:336 after waiting 0.0001s
+2015-12-16 15:42:44.8392|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 41 at RepositoryViewModel.cs:336 after blocking 0.0099007s
+2015-12-16 15:42:58.5581|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 42 at GitClient.cs:201
+2015-12-16 15:42:58.5581|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 42 at GitClient.cs:201 after waiting 7.44E-05s
+2015-12-16 15:42:58.5581|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 43 at RepositoryModel.cs:596
+2015-12-16 15:42:58.5581|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 43 at RepositoryModel.cs:596 after waiting 6.65E-05s
+2015-12-16 15:42:58.5736|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 44 at GitClient.cs:290
+2015-12-16 15:42:58.5736|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 45 at BranchSynchronizer.cs:126
+2015-12-16 15:42:58.5736|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 44 at GitClient.cs:290 after waiting 0.0008754s
+2015-12-16 15:42:58.5736|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 45 at BranchSynchronizer.cs:126 after waiting 0.0018396s
+2015-12-16 15:42:58.5736|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 43 at RepositoryModel.cs:596 after blocking 0.0138514s
+2015-12-16 15:42:58.5893|INFO|thread:39|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:42:58.5893|INFO|thread:39|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:42:58.5893|INFO|thread:39|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:42:58.5893|INFO|thread:17|ConcurrentRepositoryConnection|branch stats: ahead 1, behind 0 on test
+2015-12-16 15:42:58.5893|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 45 at BranchSynchronizer.cs:126 after blocking 0.0076133s
+2015-12-16 15:42:58.6224|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 42 at GitClient.cs:201 after blocking 0.0515315s
+2015-12-16 15:42:58.6830|INFO|thread:39|ConcurrentRepositoryConnection|Took 96ms to git status
+2015-12-16 15:42:58.6830|INFO|thread:39|ConcurrentRepositoryConnection|Took 96ms to git status and parse output
+2015-12-16 15:42:58.6830|INFO|thread:39|NewCommitViewModel|Took 107ms to load files for C:\GitHub Stuff\green-good
+2015-12-16 15:42:58.6830|INFO|thread:39|AsyncReaderWriterLock|Released concurrent scheduler for operation: 44 at GitClient.cs:290 after blocking 0.1065237s
+2015-12-16 15:42:58.6830|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\GitHub Stuff\green-good
+2015-12-16 15:42:58.6830|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 46 at RepositoryViewModel.cs:336
+2015-12-16 15:42:58.6830|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 46 at RepositoryViewModel.cs:336 after waiting 4.84E-05s
+2015-12-16 15:42:58.6991|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 46 at RepositoryViewModel.cs:336 after blocking 0.0156097s
+2015-12-16 15:43:02.0062|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 47 at GitClient.cs:404
+2015-12-16 15:43:02.0062|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 47 at GitClient.cs:404 after waiting 4.56E-05s
+2015-12-16 15:43:02.0062|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:02.0062|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:02.0062|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --name-status f253857c7a3593d744ca843d052857b5d3bbbbaf ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:43:02.0062|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:02.0062|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:02.0062|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --numstat f253857c7a3593d744ca843d052857b5d3bbbbaf ', Working Directory: C:\GitHub Stuff\green-good\
+2015-12-16 15:43:02.0592|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 48 at RepositoryViewModel.cs:755
+2015-12-16 15:43:02.0592|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 48 at RepositoryViewModel.cs:755 after waiting 0.0001456s
+2015-12-16 15:43:02.0753|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 48 at RepositoryViewModel.cs:755 after blocking 0.0155766s
+2015-12-16 15:43:02.1823|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 49 at ICommittedFileForklift.cs:59
+2015-12-16 15:43:02.1823|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 49 at ICommittedFileForklift.cs:59 after waiting 0.0015841s
+2015-12-16 15:43:02.2082|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 49 at ICommittedFileForklift.cs:59 after blocking 0.0240873s
+2015-12-16 15:43:02.2112|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 47 at GitClient.cs:404 after blocking 0.2053987s
+2015-12-16 15:43:02.2112|INFO|thread: 1|SelectedCommitViewModel|Took 206ms to load files for commit f253857 in repo C:\GitHub Stuff\green-good
+2015-12-16 15:43:02.2112|WARN|thread: 1|StandardUserErrors|Showing user error An error occurred while trying to load the files for this commit. Try selecting another commit and then select this commit. If that does not work, contact support@github.com.
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GitHub.ConcurrentRepositoryConnection.<>c__DisplayClass6.<>c__DisplayClassa.<GetCommittedFiles>b__5(String[] diff, IList`1 name)
+   at System.Reactive.Linq.ObservableImpl.Zip`3._.F.OnNext(TFirst value)
+2015-12-16 15:43:15.0249|INFO|thread:16|DashboardViewModel|Selected repository 'evilamyt/symmetrical-carnival'
+2015-12-16 15:43:15.0402|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 50 at GitClient.cs:628
+2015-12-16 15:43:15.0402|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 50 at GitClient.cs:628 after waiting 3.67E-05s
+2015-12-16 15:43:15.0402|INFO|thread:16|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 51 at GitClient.cs:606
+2015-12-16 15:43:15.0402|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 50 at GitClient.cs:628 after blocking 0.0061008s
+2015-12-16 15:43:15.0402|INFO|thread:44|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 51 at GitClient.cs:606 after waiting 0.006104s
+2015-12-16 15:43:15.2124|INFO|thread:44|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 52 at GitClient.cs:623
+2015-12-16 15:43:15.2434|INFO|thread:44|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 53 at GitClient.cs:224
+2015-12-16 15:43:15.2434|INFO|thread:44|DashboardViewModel|Took 214ms to Create RepositoryViewModel for location C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:15.2434|INFO|thread:44|AsyncReaderWriterLock|Released exclusive scheduler for operation: 51 at GitClient.cs:606 after blocking 0.2084768s
+2015-12-16 15:43:15.2434|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 52 at GitClient.cs:623 after waiting 0.0363006s
+2015-12-16 15:43:15.2434|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 53 at GitClient.cs:224 after waiting 0.0009168s
+2015-12-16 15:43:15.2590|INFO|thread:40|GitClient|Loading commits for repo: C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:15.2590|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 54 at RepositoryViewModel.cs:336
+2015-12-16 15:43:15.2590|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 54 at RepositoryViewModel.cs:336 after waiting 0.0001331s
+2015-12-16 15:43:15.2590|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 52 at GitClient.cs:623 after blocking 0.005082s
+2015-12-16 15:43:15.2590|INFO|thread:40|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\GitHub Stuff\symmetrical-carnival\.
+2015-12-16 15:43:15.2746|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 53 at GitClient.cs:224 after blocking 0.0188111s
+2015-12-16 15:43:15.2746|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 54 at RepositoryViewModel.cs:336 after blocking 0.0156748s
+2015-12-16 15:43:15.3215|INFO|thread:44|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 55 at GitClient.cs:201
+2015-12-16 15:43:15.3215|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 55 at GitClient.cs:201 after waiting 0.0001903s
+2015-12-16 15:43:15.3215|INFO|thread:44|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 56 at RepositoryModel.cs:596
+2015-12-16 15:43:15.3215|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 56 at RepositoryModel.cs:596 after waiting 0.0001251s
+2015-12-16 15:43:15.3215|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 57 at RepositoryModel.cs:596
+2015-12-16 15:43:15.3371|INFO|thread:44|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 58 at GitClient.cs:290
+2015-12-16 15:43:15.3371|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 56 at RepositoryModel.cs:596 after blocking 0.0073345s
+2015-12-16 15:43:15.3371|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 57 at RepositoryModel.cs:596 after waiting 0.0059593s
+2015-12-16 15:43:15.3371|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 58 at GitClient.cs:290 after waiting 0.0003453s
+2015-12-16 15:43:15.3371|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 59 at BranchesViewModel.cs:535
+2015-12-16 15:43:15.3371|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 60 at RepositoryViewModel.cs:336
+2015-12-16 15:43:15.3371|INFO|thread:44|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:15.3371|INFO|thread:44|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:15.3371|INFO|thread:44|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:15.3371|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 55 at GitClient.cs:201 after blocking 0.0175304s
+2015-12-16 15:43:15.3371|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 59 at BranchesViewModel.cs:535 after waiting 0.0075993s
+2015-12-16 15:43:15.3527|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 60 at RepositoryViewModel.cs:336 after waiting 0.0085292s
+2015-12-16 15:43:15.4683|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 61 at GitClient.cs:611
+2015-12-16 15:43:15.8965|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 62 at BranchSynchronizer.cs:126
+2015-12-16 15:43:15.8965|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 57 at RepositoryModel.cs:596 after blocking 0.5574943s
+2015-12-16 15:43:15.8965|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 61 at GitClient.cs:611 after waiting 0.4293364s
+2015-12-16 15:43:15.9165|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 59 at BranchesViewModel.cs:535 after blocking 0.5645036s
+2015-12-16 15:43:15.9165|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 62 at BranchSynchronizer.cs:126 after waiting 0.0176425s
+2015-12-16 15:43:15.9165|INFO|thread:17|ConcurrentRepositoryConnection|branch stats: ahead 0, behind 0 on master
+2015-12-16 15:43:15.9165|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 62 at BranchSynchronizer.cs:126 after blocking 0.0070022s
+2015-12-16 15:43:15.9325|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 61 at GitClient.cs:611 after blocking 0.036551s
+2015-12-16 15:43:15.9325|INFO|thread:17|ConcurrentRepositoryConnection|Took 583ms to git status
+2015-12-16 15:43:15.9325|INFO|thread:17|ConcurrentRepositoryConnection|Took 583ms to git status and parse output
+2015-12-16 15:43:15.9524|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 60 at RepositoryViewModel.cs:336 after blocking 0.6008573s
+2015-12-16 15:43:15.9524|INFO|thread:17|NewCommitViewModel|Took 612ms to load files for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:15.9524|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 58 at GitClient.cs:290 after blocking 0.6126006s
+2015-12-16 15:43:15.9524|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:15.9524|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 63 at RepositoryViewModel.cs:336
+2015-12-16 15:43:15.9524|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 63 at RepositoryViewModel.cs:336 after waiting 9.02E-05s
+2015-12-16 15:43:15.9684|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 63 at RepositoryViewModel.cs:336 after blocking 0.0138175s
+2015-12-16 15:43:16.1524|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 64 at GitClient.cs:404
+2015-12-16 15:43:16.1524|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 64 at GitClient.cs:404 after waiting 5.11E-05s
+2015-12-16 15:43:16.1524|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 65 at GitClient.cs:404
+2015-12-16 15:43:16.1524|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 65 at GitClient.cs:404 after waiting 0.0029412s
+2015-12-16 15:43:16.1524|INFO|thread:34|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:16.1524|INFO|thread:34|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:16.1524|INFO|thread:34|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --name-status a32f5552eb9a9e4a1af43734f10e5701d9376e93 ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:16.1683|INFO|thread:34|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:16.1683|INFO|thread:34|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:16.1683|INFO|thread:34|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --numstat a32f5552eb9a9e4a1af43734f10e5701d9376e93 ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:16.1683|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:16.1683|INFO|thread:17|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:16.1683|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --name-status a32f5552eb9a9e4a1af43734f10e5701d9376e93 ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:16.1683|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:16.1683|INFO|thread:17|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:16.1683|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --numstat a32f5552eb9a9e4a1af43734f10e5701d9376e93 ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:16.2164|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 66 at ICommittedFileForklift.cs:59
+2015-12-16 15:43:16.2489|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 66 at ICommittedFileForklift.cs:59 after waiting 0.0302542s
+2015-12-16 15:43:16.8969|INFO|thread:39|BackgroundFetcher|Got a refresh period for C:\GitHub Stuff\symmetrical-carnival\.git of 300 seconds
+2015-12-16 15:43:16.8969|INFO|thread:39|BackgroundFetcher|Added a delay for C:\GitHub Stuff\symmetrical-carnival\.git of 22315 milliseconds
+2015-12-16 15:43:16.8969|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 66 at ICommittedFileForklift.cs:59 after blocking 0.6502369s
+2015-12-16 15:43:16.8969|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 67 at GitClient.cs:623
+2015-12-16 15:43:16.8969|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 67 at GitClient.cs:623 after waiting 9.21E-05s
+2015-12-16 15:43:16.8969|INFO|thread: 1|NewPullRequestViewModel|No matching pull request found, clearing selection...
+2015-12-16 15:43:16.9164|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 65 at GitClient.cs:404 after blocking 0.7555808s
+2015-12-16 15:43:16.9164|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 64 at GitClient.cs:404 after blocking 0.7604465s
+2015-12-16 15:43:16.9164|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 67 at GitClient.cs:623 after blocking 0.0048475s
+2015-12-16 15:43:16.9164|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 68 at RepositoryViewModel.cs:336
+2015-12-16 15:43:16.9164|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 68 at RepositoryViewModel.cs:336 after waiting 0.0001498s
+2015-12-16 15:43:16.9286|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 68 at RepositoryViewModel.cs:336 after blocking 0.0103275s
+2015-12-16 15:43:17.8352|INFO|thread: 1|SelectedCommitViewModel|Took 1683ms to load files for commit a32f555 in repo C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:17.8352|INFO|thread: 1|SelectedCommitViewModel|Took 1689ms to load files for commit a32f555 in repo C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:17.8352|INFO|thread:26|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 69 at GitClient.cs:497
+2015-12-16 15:43:17.8352|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 69 at GitClient.cs:497 after waiting 0.0001461s
+2015-12-16 15:43:17.8352|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 69 at GitClient.cs:497 after blocking 0.0074844s
+2015-12-16 15:43:17.9903|INFO|thread: 8|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 70 at GitClient.cs:497
+2015-12-16 15:43:17.9903|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 70 at GitClient.cs:497 after waiting 9.68E-05s
+2015-12-16 15:43:18.0059|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 70 at GitClient.cs:497 after blocking 0.006105s
+2015-12-16 15:43:19.8965|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.RepositoryOptionsViewModel.
+2015-12-16 15:43:19.8965|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 71 at GitClient.cs:187
+2015-12-16 15:43:19.8965|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 71 at GitClient.cs:187 after waiting 0.0001908s
+2015-12-16 15:43:19.9121|INFO|thread:37|GitClient|Grabbing Repo Settings
+2015-12-16 15:43:19.9753|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 71 at GitClient.cs:187 after blocking 0.0777052s
+2015-12-16 15:43:20.0840|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 72 at GitClient.cs:649
+2015-12-16 15:43:20.0840|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 72 at GitClient.cs:649 after waiting 0.0002168s
+2015-12-16 15:43:20.0997|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 72 at GitClient.cs:649 after blocking 0.0177728s
+2015-12-16 15:43:24.7551|INFO|thread: 1|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 73 at GitClient.cs:322
+2015-12-16 15:43:24.7551|INFO|thread:37|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 73 at GitClient.cs:322 after waiting 9.95E-05s
+2015-12-16 15:43:24.7793|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 74 at GitClient.cs:611
+2015-12-16 15:43:24.7793|INFO|thread:34|AsyncReaderWriterLock|Released exclusive scheduler for operation: 73 at GitClient.cs:322 after blocking 0.0247984s
+2015-12-16 15:43:24.7793|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 74 at GitClient.cs:611 after waiting 0.0001368s
+2015-12-16 15:43:24.7793|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 74 at GitClient.cs:611 after blocking 0.0025052s
+2015-12-16 15:43:24.7793|INFO|thread: 1|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 75 at GitClient.cs:335
+2015-12-16 15:43:24.7793|INFO|thread:34|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 75 at GitClient.cs:335 after waiting 0.000113s
+2015-12-16 15:43:24.7882|INFO|thread:39|AsyncReaderWriterLock|Released exclusive scheduler for operation: 75 at GitClient.cs:335 after blocking 0.0045366s
+2015-12-16 15:43:24.7882|INFO|thread:22|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 76 at GitClient.cs:290
+2015-12-16 15:43:24.7882|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 76 at GitClient.cs:290 after waiting 7.35E-05s
+2015-12-16 15:43:24.7882|INFO|thread:39|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 77 at GitClient.cs:310
+2015-12-16 15:43:24.7882|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:24.7882|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:24.7882|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:24.8541|INFO|thread:25|ConcurrentRepositoryConnection|Took 55ms to git status
+2015-12-16 15:43:24.8541|INFO|thread:25|ConcurrentRepositoryConnection|Took 55ms to git status and parse output
+2015-12-16 15:43:24.8541|INFO|thread:25|NewCommitViewModel|Took 65ms to load files for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:24.8541|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 76 at GitClient.cs:290 after blocking 0.0651847s
+2015-12-16 15:43:24.8541|INFO|thread:39|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 77 at GitClient.cs:310 after waiting 0.0649748s
+2015-12-16 15:43:24.8541|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:24.8541|INFO|thread:39|AsyncReaderWriterLock|Released exclusive scheduler for operation: 77 at GitClient.cs:310 after blocking 0.0032368s
+2015-12-16 15:43:24.8541|INFO|thread:22|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 78 at GitClient.cs:290
+2015-12-16 15:43:24.8541|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 78 at GitClient.cs:290 after waiting 5.72E-05s
+2015-12-16 15:43:24.8541|INFO|thread: 1|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 79 at GitClient.cs:664
+2015-12-16 15:43:24.8541|INFO|thread:40|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:24.8541|INFO|thread:40|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:24.8541|INFO|thread:40|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:24.9024|INFO|thread:26|ConcurrentRepositoryConnection|Took 37ms to git status
+2015-12-16 15:43:24.9024|INFO|thread:26|ConcurrentRepositoryConnection|Took 37ms to git status and parse output
+2015-12-16 15:43:24.9024|INFO|thread:26|NewCommitViewModel|Took 45ms to load files for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:24.9024|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 78 at GitClient.cs:290 after blocking 0.045413s
+2015-12-16 15:43:24.9024|INFO|thread:40|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 79 at GitClient.cs:664 after waiting 0.0443882s
+2015-12-16 15:43:24.9024|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:24.9382|INFO|thread:40|AsyncReaderWriterLock|Released exclusive scheduler for operation: 79 at GitClient.cs:664 after blocking 0.0346847s
+2015-12-16 15:43:24.9382|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 80 at GitClient.cs:290
+2015-12-16 15:43:24.9382|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 80 at GitClient.cs:290 after waiting 0.0001186s
+2015-12-16 15:43:24.9382|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.RepositoryOptionsViewModel.
+2015-12-16 15:43:24.9382|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.RepositoryOptionsViewModel.
+2015-12-16 15:43:24.9442|INFO|thread:37|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:24.9442|INFO|thread:37|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:24.9442|INFO|thread:37|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:24.9941|INFO|thread:25|ConcurrentRepositoryConnection|Took 47ms to git status
+2015-12-16 15:43:24.9941|INFO|thread:25|ConcurrentRepositoryConnection|Took 47ms to git status and parse output
+2015-12-16 15:43:24.9941|INFO|thread:25|NewCommitViewModel|Took 57ms to load files for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:24.9941|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 80 at GitClient.cs:290 after blocking 0.0575109s
+2015-12-16 15:43:24.9941|INFO|thread: 1|NewCommitViewModel|Took 5ms to render file list for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:25.0211|INFO|thread:40|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 81 at GitClient.cs:497
+2015-12-16 15:43:25.0211|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 81 at GitClient.cs:497 after waiting 0.0002424s
+2015-12-16 15:43:25.0442|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 81 at GitClient.cs:497 after blocking 0.0238183s
+2015-12-16 15:43:28.4882|INFO|thread:44|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 82 at GitClient.cs:213
+2015-12-16 15:43:28.4882|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 82 at GitClient.cs:213 after waiting 0.0006631s
+2015-12-16 15:43:28.4882|INFO|thread:44|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 83 at GitClient.cs:136
+2015-12-16 15:43:28.4912|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 83 at GitClient.cs:136 after waiting 0.0003001s
+2015-12-16 15:43:28.4912|INFO|thread:44|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:28.4912|INFO|thread:44|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:28.4912|INFO|thread:44|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:28.4912|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 82 at GitClient.cs:213 after blocking 0.0163431s
+2015-12-16 15:43:28.5562|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 83 at GitClient.cs:136 after blocking 0.0654528s
+2015-12-16 15:43:28.8882|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 84 at GitClient.cs:207
+2015-12-16 15:43:28.8882|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 84 at GitClient.cs:207 after waiting 0.0001982s
+2015-12-16 15:43:28.9013|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 84 at GitClient.cs:207 after blocking 0.0136685s
+2015-12-16 15:43:29.0442|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 85 at GitClient.cs:207
+2015-12-16 15:43:29.0442|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 85 at GitClient.cs:207 after waiting 0.0001614s
+2015-12-16 15:43:29.0442|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 85 at GitClient.cs:207 after blocking 0.0039213s
+2015-12-16 15:43:29.4592|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 86 at GitClient.cs:207
+2015-12-16 15:43:29.4592|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 86 at GitClient.cs:207 after waiting 0.0001344s
+2015-12-16 15:43:29.4633|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 86 at GitClient.cs:207 after blocking 0.0040079s
+2015-12-16 15:43:29.6262|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 87 at GitClient.cs:207
+2015-12-16 15:43:29.6262|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 87 at GitClient.cs:207 after waiting 0.0001307s
+2015-12-16 15:43:29.6262|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 87 at GitClient.cs:207 after blocking 0.0041364s
+2015-12-16 15:43:29.7022|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 88 at GitClient.cs:207
+2015-12-16 15:43:29.7022|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 88 at GitClient.cs:207 after waiting 0.0001158s
+2015-12-16 15:43:29.7103|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 88 at GitClient.cs:207 after blocking 0.0081415s
+2015-12-16 15:43:29.9152|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 89 at CreateBranchPopupViewModel.cs:181
+2015-12-16 15:43:29.9152|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 89 at CreateBranchPopupViewModel.cs:181 after waiting 0.0001782s
+2015-12-16 15:43:29.9632|INFO|thread:40|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 90 at RepositoryModel.cs:664
+2015-12-16 15:43:29.9632|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 89 at CreateBranchPopupViewModel.cs:181 after blocking 0.0498714s
+2015-12-16 15:43:29.9632|INFO|thread:34|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 90 at RepositoryModel.cs:664 after waiting 0.0014408s
+2015-12-16 15:43:29.9753|INFO|thread:17|ExclusiveRepositoryConnection|Checking out treeish: C:\GitHub Stuff\symmetrical-carnival\@jpg
+2015-12-16 15:43:29.9753|INFO|thread:17|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2015-12-16 15:43:30.0073|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:30.0073|INFO|thread:17|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:30.0073|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'checkout jpg ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:30.1023|INFO|thread:21|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 91 at RepositoryModel.cs:596
+2015-12-16 15:43:30.1023|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 92 at RepositoryModel.cs:596
+2015-12-16 15:43:30.1023|INFO|thread:17|AsyncReaderWriterLock|Released exclusive scheduler for operation: 90 at RepositoryModel.cs:664 after blocking 0.1372317s
+2015-12-16 15:43:30.1023|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 91 at RepositoryModel.cs:596 after waiting 0.0003276s
+2015-12-16 15:43:30.1023|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 92 at RepositoryModel.cs:596 after waiting 0.000214s
+2015-12-16 15:43:30.1023|INFO|thread:40|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2015-12-16 15:43:30.1023|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 91 at RepositoryModel.cs:596 after blocking 0.0091984s
+2015-12-16 15:43:30.1023|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 92 at RepositoryModel.cs:596 after blocking 0.009392s
+2015-12-16 15:43:30.1023|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 93 at BranchesViewModel.cs:535
+2015-12-16 15:43:30.1023|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 93 at BranchesViewModel.cs:535 after waiting 0.0001051s
+2015-12-16 15:43:30.1023|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 94 at RepositoryViewModel.cs:336
+2015-12-16 15:43:30.1023|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 94 at RepositoryViewModel.cs:336 after waiting 5.25E-05s
+2015-12-16 15:43:30.1023|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 95 at BranchSynchronizer.cs:126
+2015-12-16 15:43:30.1283|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 94 at RepositoryViewModel.cs:336 after blocking 0.0163082s
+2015-12-16 15:43:30.1283|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 95 at BranchSynchronizer.cs:126 after waiting 0.0151252s
+2015-12-16 15:43:30.1361|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 93 at BranchesViewModel.cs:535 after blocking 0.023426s
+2015-12-16 15:43:30.1361|INFO|thread:17|ConcurrentRepositoryConnection|branch stats: ahead 0, behind 0 on master
+2015-12-16 15:43:30.1361|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 95 at BranchSynchronizer.cs:126 after blocking 0.0080852s
+2015-12-16 15:43:36.4244|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 96 at GitClient.cs:201
+2015-12-16 15:43:36.4244|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 96 at GitClient.cs:201 after waiting 3.9E-05s
+2015-12-16 15:43:36.4244|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 97 at RepositoryModel.cs:596
+2015-12-16 15:43:36.4244|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 97 at RepositoryModel.cs:596 after waiting 0.0034881s
+2015-12-16 15:43:36.4400|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 98 at GitClient.cs:290
+2015-12-16 15:43:36.4400|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 98 at GitClient.cs:290 after waiting 0.0001182s
+2015-12-16 15:43:36.4400|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 99 at BranchSynchronizer.cs:126
+2015-12-16 15:43:36.4400|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 99 at BranchSynchronizer.cs:126 after waiting 4E-05s
+2015-12-16 15:43:36.4400|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 97 at RepositoryModel.cs:596 after blocking 0.0134256s
+2015-12-16 15:43:36.4400|INFO|thread:25|ConcurrentRepositoryConnection|branch stats: remote not found for jpg
+2015-12-16 15:43:36.4400|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 99 at BranchSynchronizer.cs:126 after blocking 0.0049797s
+2015-12-16 15:43:36.4557|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:36.4557|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:36.4557|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:36.4713|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 96 at GitClient.cs:201 after blocking 0.0398562s
+2015-12-16 15:43:36.5214|INFO|thread: 8|ConcurrentRepositoryConnection|Took 55ms to git status
+2015-12-16 15:43:36.5214|INFO|thread: 8|ConcurrentRepositoryConnection|Took 55ms to git status and parse output
+2015-12-16 15:43:36.5243|INFO|thread: 8|NewCommitViewModel|Took 76ms to load files for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:36.5243|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 98 at GitClient.cs:290 after blocking 0.0763672s
+2015-12-16 15:43:36.5713|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 100 at GitClient.cs:497
+2015-12-16 15:43:36.5713|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 100 at GitClient.cs:497 after waiting 6.7E-05s
+2015-12-16 15:43:36.5854|INFO|thread: 8|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:36.5854|INFO|thread: 8|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:36.5854|INFO|thread: 8|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'lfs clean ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:36.5854|INFO|thread: 1|NewCommitViewModel|Took 63ms to render file list for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:36.5854|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 101 at RepositoryViewModel.cs:336
+2015-12-16 15:43:36.5854|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 101 at RepositoryViewModel.cs:336 after waiting 0.0007869s
+2015-12-16 15:43:36.6094|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 101 at RepositoryViewModel.cs:336 after blocking 0.0200547s
+2015-12-16 15:43:36.7284|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 100 at GitClient.cs:497 after blocking 0.1565716s
+2015-12-16 15:43:36.7284|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 102 at GitClient.cs:241
+2015-12-16 15:43:36.7284|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 102 at GitClient.cs:241 after waiting 0.0001005s
+2015-12-16 15:43:36.8024|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 102 at GitClient.cs:241 after blocking 0.0726175s
+2015-12-16 15:43:39.8414|INFO|thread: 1|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 103 at ICommitCreator.cs:89
+2015-12-16 15:43:39.8414|INFO|thread:40|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 103 at ICommitCreator.cs:89 after waiting 0.0001321s
+2015-12-16 15:43:39.8414|INFO|thread:39|ExclusiveRepositoryConnection|Creating Commit
+2015-12-16 15:43:39.8524|INFO|thread:39|ExclusiveRepositoryConnection|Creating new commit with 2 file(s). test
+
+test
+
+2015-12-16 15:43:39.8524|INFO|thread:39|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:39.8524|INFO|thread:39|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:39.8524|INFO|thread:39|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'add --all ".gitattributes" ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:39.9234|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:39.9234|INFO|thread:17|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:39.9234|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'add --all "cute2.jpg" ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:40.0814|INFO|thread: 8|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:40.0814|INFO|thread: 8|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:40.0814|INFO|thread: 8|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'commit -F "C:\Users\Amy Truong\AppData\Local\Temp\0c9e6abc-f56a-4d51-90b8-09971a08048e" ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:40.2654|INFO|thread:25|AsyncReaderWriterLock|Released exclusive scheduler for operation: 103 at ICommitCreator.cs:89 after blocking 0.423525s
+2015-12-16 15:43:40.2654|INFO|thread:21|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 104 at RepositoryModel.cs:596
+2015-12-16 15:43:40.2654|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 104 at RepositoryModel.cs:596 after waiting 0.0002098s
+2015-12-16 15:43:40.2654|INFO|thread:22|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 105 at GitClient.cs:290
+2015-12-16 15:43:40.2654|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 105 at GitClient.cs:290 after waiting 7.12E-05s
+2015-12-16 15:43:40.2724|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 106 at GitClient.cs:404
+2015-12-16 15:43:40.2724|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 106 at GitClient.cs:404 after waiting 0.0001089s
+2015-12-16 15:43:40.2724|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 104 at RepositoryModel.cs:596 after blocking 0.0069529s
+2015-12-16 15:43:40.2724|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 107 at GitClient.cs:201
+2015-12-16 15:43:40.2724|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 107 at GitClient.cs:201 after waiting 3.81E-05s
+2015-12-16 15:43:40.2724|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:40.2724|INFO|thread:17|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:40.2724|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:40.2724|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 108 at BranchesViewModel.cs:535
+2015-12-16 15:43:40.2724|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 109 at RepositoryViewModel.cs:336
+2015-12-16 15:43:40.2724|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 110 at BranchSynchronizer.cs:126
+2015-12-16 15:43:40.2724|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 108 at BranchesViewModel.cs:535 after waiting 0.001358s
+2015-12-16 15:43:40.2724|INFO|thread:44|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:40.2724|INFO|thread:44|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:40.2724|INFO|thread:44|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --name-status 1bdf72eea6f47b0d751a6b6c2ffce9dce8109a80 ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:40.2894|INFO|thread:44|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:43:40.2894|INFO|thread:44|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:43:40.2894|INFO|thread:44|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'diff-tree --root -m -r -z --numstat 1bdf72eea6f47b0d751a6b6c2ffce9dce8109a80 ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:43:40.3264|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 107 at GitClient.cs:201 after blocking 0.0530589s
+2015-12-16 15:43:40.3264|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 109 at RepositoryViewModel.cs:336 after waiting 0.0507892s
+2015-12-16 15:43:40.3424|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 108 at BranchesViewModel.cs:535 after blocking 0.0654109s
+2015-12-16 15:43:40.3424|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 110 at BranchSynchronizer.cs:126 after waiting 0.0655272s
+2015-12-16 15:43:40.3584|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 109 at RepositoryViewModel.cs:336 after blocking 0.0315275s
+2015-12-16 15:43:40.3584|INFO|thread:17|ConcurrentRepositoryConnection|Took 82ms to git status
+2015-12-16 15:43:40.3584|INFO|thread:17|ConcurrentRepositoryConnection|Took 82ms to git status and parse output
+2015-12-16 15:43:40.3584|INFO|thread:40|ConcurrentRepositoryConnection|branch stats: remote not found for jpg
+2015-12-16 15:43:40.3584|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 110 at BranchSynchronizer.cs:126 after blocking 0.0214215s
+2015-12-16 15:43:40.3584|INFO|thread:17|NewCommitViewModel|Took 97ms to load files for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:40.3584|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 105 at GitClient.cs:290 after blocking 0.0974723s
+2015-12-16 15:43:40.3584|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:40.5914|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 106 at GitClient.cs:404 after blocking 0.3183225s
+2015-12-16 15:43:40.5914|INFO|thread: 1|SelectedCommitViewModel|Took 319ms to load files for commit 1bdf72e in repo C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:43:40.5914|WARN|thread: 1|StandardUserErrors|Showing user error An error occurred while trying to load the files for this commit. Try selecting another commit and then select this commit. If that does not work, contact support@github.com.
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GitHub.ConcurrentRepositoryConnection.<>c__DisplayClass6.<>c__DisplayClassa.<GetCommittedFiles>b__5(String[] diff, IList`1 name)
+   at System.Reactive.Linq.ObservableImpl.Zip`3._.F.OnNext(TFirst value)
+2015-12-16 15:47:03.3788|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 111 at GitClient.cs:201
+2015-12-16 15:47:03.3788|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 111 at GitClient.cs:201 after waiting 0.0009684s
+2015-12-16 15:47:03.3788|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 112 at RepositoryModel.cs:596
+2015-12-16 15:47:03.3788|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 112 at RepositoryModel.cs:596 after waiting 0.0007534s
+2015-12-16 15:47:03.3943|INFO|thread:44|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 113 at GitClient.cs:290
+2015-12-16 15:47:03.3943|INFO|thread:29|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 113 at GitClient.cs:290 after waiting 0.0002331s
+2015-12-16 15:47:03.3943|INFO|thread:44|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 114 at BranchSynchronizer.cs:126
+2015-12-16 15:47:03.3943|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 114 at BranchSynchronizer.cs:126 after waiting 0.0006333s
+2015-12-16 15:47:03.4100|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 112 at RepositoryModel.cs:596 after blocking 0.0316848s
+2015-12-16 15:47:03.4100|INFO|thread:32|ConcurrentRepositoryConnection|branch stats: remote not found for jpg
+2015-12-16 15:47:03.4100|INFO|thread:32|AsyncReaderWriterLock|Released concurrent scheduler for operation: 114 at BranchSynchronizer.cs:126 after blocking 0.0056964s
+2015-12-16 15:47:03.4484|INFO|thread:30|GitEnvironment|Process set up with this SSH Agent info: 3144:/tmp/ssh-iiYG9NCFoMPv/agent.3776
+2015-12-16 15:47:03.4484|INFO|thread:30|GitEnvironment|PATH is C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin;C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\share\git-tfs;C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114;C:\Users\Amy Truong\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-16 15:47:03.4484|INFO|thread:30|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Amy Truong\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\GitHub Stuff\symmetrical-carnival\
+2015-12-16 15:47:03.4570|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 111 at GitClient.cs:201 after blocking 0.077317s
+2015-12-16 15:47:03.5037|INFO|thread:38|ConcurrentRepositoryConnection|Took 54ms to git status
+2015-12-16 15:47:03.5037|INFO|thread:38|ConcurrentRepositoryConnection|Took 55ms to git status and parse output
+2015-12-16 15:47:03.5037|INFO|thread:38|NewCommitViewModel|Took 108ms to load files for C:\GitHub Stuff\symmetrical-carnival
+2015-12-16 15:47:03.5037|INFO|thread:38|AsyncReaderWriterLock|Released concurrent scheduler for operation: 113 at GitClient.cs:290 after blocking 0.1080381s
+2015-12-16 15:47:03.5584|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.ShellViewModel.
+2015-12-16 15:47:03.5584|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.DashboardViewModel.
+2015-12-16 15:47:03.5584|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.DashboardViewModel.
+2015-12-16 15:47:03.5584|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.ShellViewModel.
+2015-12-16 15:47:03.5740|INFO|thread: 1|App|Shutting down: C:\Users\Amy Truong\AppData\Local\Apps\2.0\4JGBK8ED.TT1\POJAK20C.R34\gith..tion_317444273a93ac29_0003.0000_44604d026a23b114
+2015-12-16 15:47:03.6054|INFO|thread: 1|BlobCacheUtils|Shutting down cache 'C:\Users\Amy Truong\AppData\Roaming\GitHub\cache.db'
+2015-12-16 15:47:03.6054|INFO|thread: 1|BlobCacheUtils|Shutting down cache 'C:\Users\Amy Truong\AppData\Local\GitHub\cache.db'
+2015-12-16 15:47:03.6054|INFO|thread: 1|BlobCacheUtils|Shutting down cache 'C:\Users\Amy Truong\AppData\Roaming\GitHub\secure-cache.db'
+2015-12-16 15:47:03.6521|INFO|thread:44|BlobCacheUtils|Shutting down cache 'C:\Users\Amy Truong\AppData\Local\GitHub\ghe.io.cache.db'
+2015-12-16 15:47:03.6521|INFO|thread:44|BlobCacheUtils|Shutting down cache 'C:\Users\Amy Truong\AppData\Roaming\GitHub\ghe.io.cache.db'
+2015-12-16 15:47:03.6835|INFO|thread:30|BlobCacheUtils|Shutting down cache 'C:\Users\Amy Truong\AppData\Local\GitHub\api.github.com.cache.db'
